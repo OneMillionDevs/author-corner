@@ -1,9 +1,12 @@
-# Jonny Dubowsky
-
-### Outlines
+---
+name: Jonny Dubowsky
+ens:
+twitter:
+medium:
+---
 
 #### Ideas
 
-#### Proposals
+#### Drafts
 
 #### Complete
