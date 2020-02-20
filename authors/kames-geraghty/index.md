@@ -5,13 +5,16 @@ twitter: kamescg
 medium: kamescg
 ---
 
-**Focus**: Writing introductory tutorials for Ethereum Community management strategies.
+**Focus**: Tutorials and Guides for Ethereum Community management strategies.
 
 #### Ideas
 
 - Ethereum Developers Roles & Archetypes
-- Identifying a Problem Space for Web3 Technology
-- Deploy Low Friction Community Organization Tools
+- Minimal Viable DAOs for Group Decision Making
+- Decentralized Identity for Community Management
+- Conducting User Research for Web3 Technology
+- Low Friction Community Organization Tools
+- Social Tokens for Community Recognition
 
 #### Drafts
 
